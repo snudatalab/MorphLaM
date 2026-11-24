@@ -1,6 +1,7 @@
 # MorphLaM
 
-This repository contains standalone Python scripts used to run MorphLaM experiments.
+This repository is the official implementation of **"MorphLaM: Morphable Latent Masking for Compact Tensor Factorization"** (KDD 2027).
+The supplementary material is available [here](material/supplementary.pdf).
 
 ## Files
 
