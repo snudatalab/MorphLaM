@@ -68,3 +68,14 @@ python morphlam.py --log_every 100 --log_progress_csv
 Pass a path after `--log_progress_csv` to choose a custom location.
 
 Run `python <script>.py --help` for the complete set of options.
+
+## Reference
+
+If you use this code, please cite the following paper.
+```bibtex
+@inproceedings{park2027morphlam,
+  title={MorphLaM: Morphable Latent Masking for Compact Tensor Factorization},
+  author={Park, Yong-chan and Lee, SeungJoo and Lee, Jeongyoung and Kang, U},
+  booktitle={Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
+  year={2027}
+}
