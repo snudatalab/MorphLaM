@@ -3,6 +3,10 @@
 This repository is the official implementation of **"MorphLaM: Morphable Latent Masking for Compact Tensor Factorization"** (KDD 2027).
 The supplementary material is available [here](material/supplementary.pdf).
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snudatalab/MMF/main/material/overview.PNG" width="540"/>
+</p>
+
 ## Files
 
 - `morphlam.py`: MorphLaM, CP, Tucker, and Tensor-Train. It includes Adam-based fitting, CP-ALS, HOSVD+HOOI, and permutation-aware TT-SVD.
