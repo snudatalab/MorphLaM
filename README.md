@@ -4,7 +4,7 @@ This repository is the official implementation of **"MorphLaM: Morphable Latent 
 The supplementary material is available [here](material/supplementary.pdf).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snudatalab/MMF/main/material/overview.PNG" width="540"/>
+  <img src="https://raw.githubusercontent.com/snudatalab/MorphLaM/main/material/overview.PNG" width="540"/>
 </p>
 
 ## Files
